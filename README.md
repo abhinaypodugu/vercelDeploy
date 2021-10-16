@@ -10,7 +10,7 @@ Check the [deployed example API here](https://verceldeploy-two.vercel.app/)
 
 - run `npm i -g @vercel/python` to install the vercel@python npm package.
 
-- Use the requirements.txt file to build the environment required.
+- run `pip install -r requirements.txt` to build the environment required.
 
 ## Usage Instructions
 - Go to the directory where the code is located and run `python vercelDeploy build --path <filename>.py` to build the API file.
